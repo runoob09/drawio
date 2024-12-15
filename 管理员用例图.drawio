@@ -7,6 +7,18 @@
         <mxCell id="y1nobqfwPycfZOGXGUGH-1" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="157" y="380" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" source="y1nobqfwPycfZOGXGUGH-4" target="y1nobqfwPycfZOGXGUGH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;" edge="1" parent="1" source="y1nobqfwPycfZOGXGUGH-4" target="y1nobqfwPycfZOGXGUGH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y1nobqfwPycfZOGXGUGH-4" target="y1nobqfwPycfZOGXGUGH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="y1nobqfwPycfZOGXGUGH-4" target="y1nobqfwPycfZOGXGUGH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y1nobqfwPycfZOGXGUGH-4" value="基础数据的增删改查" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="124" width="240" height="50" as="geometry" />
         </mxCell>
@@ -87,6 +99,18 @@
             <mxPoint x="440" y="580" as="sourcePoint" />
             <mxPoint x="600" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-24" value="教师数据的增删改查" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="51" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-25" value="教室数据的增删改查" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="124" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-26" value="学生数据的增删改查" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="194" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y1nobqfwPycfZOGXGUGH-27" value="课程数据的增删改查" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="261" width="240" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

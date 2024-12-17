@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
   <diagram name="第 1 页" id="WkZZr8wGl2QqsRysACkr">
-    <mxGraphModel>
+    <mxGraphModel dx="704" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-1" value="教师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry y="-510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-2" value="课程信息操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-3" value="登陆系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-4" value="查看课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-5" value="课程反馈" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-6" value="上传教学资料" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-540" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-7" value="课表相关操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LMzk97qmA6REJ-0IYdZ-8" value="查看课表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-460" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-32" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MIiEvwz3mjyiy-l0bOhD-12">
           <mxGeometry x="0.05" relative="1" as="geometry">
-            <mxPoint y="-10" as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-1" value="系统管理员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-34" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MIiEvwz3mjyiy-l0bOhD-16">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-7" value="教师" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -63,7 +63,7 @@
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-36" value="登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="MIiEvwz3mjyiy-l0bOhD-15">
           <mxGeometry x="-0.025" y="-1" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MIiEvwz3mjyiy-l0bOhD-8" value="学生" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">

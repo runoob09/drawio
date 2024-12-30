@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="-yEuyqz_h8OfGKDFdokj">
-    <mxGraphModel dx="1501" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Y5baXM9hQkMNdw1ySjzE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="120" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Y5baXM9hQkMNdw1ySjzE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="400" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-3" value="应对策略学习与知识挖掘模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Y5baXM9hQkMNdw1ySjzE-3" value="应对策略学习与知识挖掘模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="845" y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="580" width="400" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-5" value="在线策略应用模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Y5baXM9hQkMNdw1ySjzE-5" value="在线策略应用模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="335" y="120" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y5baXM9hQkMNdw1ySjzE-6" value="敌机策略识别与我机应对策略重用&lt;div&gt;&lt;ul&gt;&lt;li&gt;加载显示敌我策略列表&lt;/li&gt;&lt;li&gt;策略识别与重用算法选择与配置&lt;/li&gt;&lt;li&gt;低级策略切换模式配置、在线调整&lt;/li&gt;&lt;li&gt;启停控制与渲染控制&lt;/li&gt;&lt;li&gt;仿真速率调整&lt;/li&gt;&lt;li&gt;对抗结果可视化展示与分析&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="Y5baXM9hQkMNdw1ySjzE-6" value="敌机策略识别与我机应对策略重用&lt;div&gt;&lt;ul&gt;&lt;li&gt;加载显示敌我策略列表&lt;/li&gt;&lt;li&gt;策略识别与重用算法选择与配置&lt;/li&gt;&lt;li&gt;低级策略切换模式配置、在线调整&lt;/li&gt;&lt;li&gt;启停控制与渲染控制&lt;/li&gt;&lt;li&gt;仿真速率调整&lt;/li&gt;&lt;li&gt;对抗结果可视化展示与分析&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="280" y="150" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9f8fdhaCCyyqgwAd8cC6-1" value="&lt;div&gt;&lt;div&gt;基于CESIUM的场景渲染&lt;/div&gt;&lt;ul&gt;&lt;li&gt;对抗过程可视化&lt;/li&gt;&lt;li&gt;二维、三维视角可视化&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="360" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

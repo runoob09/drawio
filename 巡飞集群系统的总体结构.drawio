@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="olmqjQPAvo46s7Y5LKOY">
-    <mxGraphModel dx="2341" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+    <mxGraphModel dx="3977" dy="2185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
           <mxGeometry y="60" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ViQL7UCzNW7ZSoKKCmrP-132" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="315" y="-480" width="175" height="170" as="geometry" />
+          <mxGeometry x="315" y="-480" width="415" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ViQL7UCzNW7ZSoKKCmrP-118" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-132">
           <mxGeometry width="175" height="170" as="geometry" />
@@ -311,30 +311,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="-290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-149" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-80" y="-660" width="730" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry width="730" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-147" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;通讯层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry width="110" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-150" value="API网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry x="125" y="80" width="585" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-156" value="WebSocket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry x="125" y="10" width="115" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-157" value="HTTP/HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry x="290" y="10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-158" value="TCP/UDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry x="440" y="10" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-159" value="TCP/UDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-149">
-          <mxGeometry x="590" y="10" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ViQL7UCzNW7ZSoKKCmrP-160" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-80" y="-780" width="730" height="101" as="geometry" />
@@ -419,6 +395,30 @@
         </mxCell>
         <mxCell id="ViQL7UCzNW7ZSoKKCmrP-192" value="策略制定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-195">
           <mxGeometry x="5" y="50" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-196" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-80" y="-650" width="730" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-146" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry width="730" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-147" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;通讯层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-150" value="API网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry x="125" y="80" width="585" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-156" value="WebSocket" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry x="125" y="10" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-157" value="HTTP/HTTPS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry x="290" y="10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-158" value="TCP/UDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry x="440" y="10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViQL7UCzNW7ZSoKKCmrP-159" value="TCP/UDP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006633;fontColor=#FFFFFF;fontSize=16;container=0;" vertex="1" parent="ViQL7UCzNW7ZSoKKCmrP-196">
+          <mxGeometry x="590" y="10" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
+  <diagram name="第 1 页" id="xlQcrhraSkLiKLdG1alf">
+    <mxGraphModel dx="2066" dy="1141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-1" value="算法参数设置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="210" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-2" value="敌我策略列表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-3" value="更改敌方策略切换模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="170" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-4" value="对抗轨迹显示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="490" y="210" width="590" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-5" value="算法运行信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="210" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-6" value="巡飞集群自主协同规划策略生成系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="320" y="150" width="920" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-7" value="运行日志输出" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="490" y="480" width="590" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-8" value="返回主界面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="500" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iBTMerZbn4FLgqlYGYfc-9" value="其余图标信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="340" width="160" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

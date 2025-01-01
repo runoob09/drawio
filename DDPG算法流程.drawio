@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="n-qwZFR-yub0B4k1O4XI">
-    <mxGraphModel>
+    <mxGraphModel dx="922" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2400" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-1" target="PNN4hiSo44YtDNm9Y2iT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-2" target="PNN4hiSo44YtDNm9Y2iT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-2" value="读取配置文件并创建环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-3" target="PNN4hiSo44YtDNm9Y2iT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-3" value="启动环境" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-4" target="PNN4hiSo44YtDNm9Y2iT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-4" value="创建智能体对象" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-5" target="PNN4hiSo44YtDNm9Y2iT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-5" value="开始训练" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-6" target="PNN4hiSo44YtDNm9Y2iT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-6" target="PNN4hiSo44YtDNm9Y2iT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-6" value="总轮数&amp;lt;最大轮数" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-7" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-9" target="PNN4hiSo44YtDNm9Y2iT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-9" value="env.reset()&lt;br&gt;获取当前智能体状态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="20" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-10" target="PNN4hiSo44YtDNm9Y2iT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-10" value="agent.reset()&lt;div&gt;保存当前模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-18" target="PNN4hiSo44YtDNm9Y2iT-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-18" value="更新状态及回报值" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="455" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-21" target="PNN4hiSo44YtDNm9Y2iT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-21" value="agent.train(): 根据reward训练一次智能体" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-22" target="PNN4hiSo44YtDNm9Y2iT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-22" value="env.step(): 执行动作生成下一步的状态及这一步的回报" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PNN4hiSo44YtDNm9Y2iT-23" target="PNN4hiSo44YtDNm9Y2iT-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PNN4hiSo44YtDNm9Y2iT-23" value="agent.make_decision(): 根据当前的状态生成下一步的动作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="880" y="440" width="170" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="wNXFTitmkMOSSMD1-SyR">
-    <mxGraphModel>
+    <mxGraphModel dx="1017" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QvW30rohvP4jmgIS-3aG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvW30rohvP4jmgIS-3aG-26" target="QvW30rohvP4jmgIS-3aG-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="QvW30rohvP4jmgIS-3aG-27" target="QvW30rohvP4jmgIS-3aG-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="760" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="760" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-1" value="UI可视化展示模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="355" y="110" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-3" value="轨迹跟踪控制模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="145" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-4" value="轨迹规划与输入模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-5" value="数据记录与回放模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="525" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-6" value="车辆状态/传感器融合模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="395" y="420" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-7" value="控制算法接口/管理模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-21" value="算法&lt;div&gt;后端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-22" value="数据&lt;div&gt;收集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QvW30rohvP4jmgIS-3aG-20" value="前端" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

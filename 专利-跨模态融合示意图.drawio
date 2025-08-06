@@ -1,9 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
   <diagram name="第 1 页" id="NDJbeMAw5n0Vsw2L660t">
-    <mxGraphModel>
+    <mxGraphModel dx="776" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PwG927auIjGhLrH15tSz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="PwG927auIjGhLrH15tSz-3" target="PwG927auIjGhLrH15tSz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-6" value="词嵌入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PwG927auIjGhLrH15tSz-5">
+          <mxGeometry x="0.05" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-3" value="文本报告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PwG927auIjGhLrH15tSz-4" target="PwG927auIjGhLrH15tSz-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-4" value="特征对齐模块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PwG927auIjGhLrH15tSz-7" target="PwG927auIjGhLrH15tSz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-10" value="卷积特征" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="PwG927auIjGhLrH15tSz-8">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-7" value="卫星图像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="PwG927auIjGhLrH15tSz-11" target="PwG927auIjGhLrH15tSz-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-11" value="多模态联合表示向量" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PwG927auIjGhLrH15tSz-12" value="战术决策生成器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -4,33 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="110" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-2" value="战术层&lt;br&gt;（毫秒级）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-2" value="战术层&lt;br&gt;（毫秒级）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-1" value="战略层&lt;br&gt;（秒级）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-1" value="战略层&lt;br&gt;（秒级）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-4" target="fIXR_Zm17kuAxwSIzVas-5">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-4" target="fIXR_Zm17kuAxwSIzVas-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-9" value="下发指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fIXR_Zm17kuAxwSIzVas-8">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-9" value="下发指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="fIXR_Zm17kuAxwSIzVas-8">
           <mxGeometry x="-0.1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-4" value="生成方案(A/B/C)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-4" value="生成方案(A/B/C)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-5" target="fIXR_Zm17kuAxwSIzVas-6">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-5" target="fIXR_Zm17kuAxwSIzVas-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-5" value="执行方案B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-5" value="执行方案B" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-6" target="fIXR_Zm17kuAxwSIzVas-5">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-6" target="fIXR_Zm17kuAxwSIzVas-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="280" />
@@ -38,13 +38,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-6" target="fIXR_Zm17kuAxwSIzVas-7">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="fIXR_Zm17kuAxwSIzVas-6" target="fIXR_Zm17kuAxwSIzVas-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-6" value="实时调整B1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-6" value="实时调整B1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fIXR_Zm17kuAxwSIzVas-7" value="最终执行B1`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fIXR_Zm17kuAxwSIzVas-7" value="最终执行B1`" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

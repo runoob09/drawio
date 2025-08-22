@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="第 1 页" id="GYnFQ3VZF2-mluFJ-07G">
-    <mxGraphModel>
+    <mxGraphModel dx="776" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-1" target="XTv-UtNjp_jvLsOEV2Ws-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-4" target="XTv-UtNjp_jvLsOEV2Ws-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-4" value="进行相似性搜索，获取Top-k相关文本片段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-5" target="XTv-UtNjp_jvLsOEV2Ws-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-19" value="提交" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="XTv-UtNjp_jvLsOEV2Ws-18">
+          <mxGeometry x="-0.0373" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-5" value="将原始问题+检索到的文本组成增强的Prompt" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-6" target="XTv-UtNjp_jvLsOEV2Ws-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-6" value="进行相似性搜索，获取Top-k相关文本片段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-7" target="XTv-UtNjp_jvLsOEV2Ws-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-7" value="进行相似性搜索，获取Top-k相关文本片段" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-9" target="XTv-UtNjp_jvLsOEV2Ws-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-9" value="大模型生成答案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="XTv-UtNjp_jvLsOEV2Ws-11" target="XTv-UtNjp_jvLsOEV2Ws-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-11" value="对答案进程处理返回给用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XTv-UtNjp_jvLsOEV2Ws-12" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

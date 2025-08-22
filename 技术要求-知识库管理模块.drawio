@@ -1,9 +1,94 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="第 1 页" id="jwdcqMCGJ0i551vOh82e">
-    <mxGraphModel>
+    <mxGraphModel dx="776" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zVcom4U2khfTn2bJdaMb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-4" target="zVcom4U2khfTn2bJdaMb-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="100" />
+              <mxPoint x="100" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-4" target="zVcom4U2khfTn2bJdaMb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-4" target="zVcom4U2khfTn2bJdaMb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-4" target="zVcom4U2khfTn2bJdaMb-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="100" />
+              <mxPoint x="580" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-4" value="私域军事知识库管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-8" target="zVcom4U2khfTn2bJdaMb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-8" target="zVcom4U2khfTn2bJdaMb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-8" value="知识维护模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-12" target="zVcom4U2khfTn2bJdaMb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-12" target="zVcom4U2khfTn2bJdaMb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-12" value="系统维护模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-16" target="zVcom4U2khfTn2bJdaMb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-16" target="zVcom4U2khfTn2bJdaMb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-16" value="统计分析模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-26" target="zVcom4U2khfTn2bJdaMb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zVcom4U2khfTn2bJdaMb-26" target="zVcom4U2khfTn2bJdaMb-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-26" value="接口管理模块" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-27" value="CRUD操作组件" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-28" value="批量操作处理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-29" value="备份与恢复" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-30" value="运行状态监控" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-31" value="数据看板" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-32" value="日志检索分析" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-33" value="API管理" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="zVcom4U2khfTn2bJdaMb-34" value="访问日志记录" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="40" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

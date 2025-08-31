@@ -1,9 +1,69 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.2">
   <diagram name="第 1 页" id="aW0wmd_o2p4U9K_Hrmop">
-    <mxGraphModel>
+    <mxGraphModel dx="776" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="620" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-1" value="表示层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-2" value="业务层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-3" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-7" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-8" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-9" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-10" value="MQ/ES" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-12" value="权限校验" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-13" value="商品/订单/支付/消息/评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-14" value="审核与风控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-15" value="推荐" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-16" value="前端（Vue3，Pinia，Axios，Websocket）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="hy4s0Ckc_0fPPd39cIU9-5" target="hy4s0Ckc_0fPPd39cIU9-4">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="720" as="sourcePoint" />
+            <mxPoint x="610" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hy4s0Ckc_0fPPd39cIU9-20" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="hy4s0Ckc_0fPPd39cIU9-6" target="hy4s0Ckc_0fPPd39cIU9-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="460" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

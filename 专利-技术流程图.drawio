@@ -1,92 +1,52 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
-  <diagram name="第 1 页" id="5opXXooe5w08HzeGnMW0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.2">
+  <diagram name="第 1 页" id="iU8WSVMAzeRID1As9RI6">
     <mxGraphModel dx="776" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="280" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-2" value="大模型战略认知层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="90" y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-3" target="6OmyqCXXWsWW5m-6uv41-4">
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EAB0HQsGv5KRgOdUg2jY-1" target="EAB0HQsGv5KRgOdUg2jY-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-7" value="文本/图像/信号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="6OmyqCXXWsWW5m-6uv41-6">
-          <mxGeometry x="0.1" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-1" value="阶段一：军事知识注入与初始策略生成&lt;div&gt;基于LLM的战略大脑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-3" value="跨模态数据融合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="120" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-4" target="6OmyqCXXWsWW5m-6uv41-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-9" value="知识图谱" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="6OmyqCXXWsWW5m-6uv41-8">
-          <mxGeometry x="0.05" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-4" value="战场态势结构化表示" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="200" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-5" value="粗粒度方案生成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="70" y="280" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="400" y="80" width="280" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-11" value="小模型战术执行层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="450" y="90" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-14" target="6OmyqCXXWsWW5m-6uv41-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-14" value="跨模态数据融合" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="120" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-17" target="6OmyqCXXWsWW5m-6uv41-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-17" value="实时路径规划" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="200" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-18" value="对抗策略生成" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="430" y="280" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-5" target="6OmyqCXXWsWW5m-6uv41-14">
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EAB0HQsGv5KRgOdUg2jY-2" target="EAB0HQsGv5KRgOdUg2jY-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="300" />
-              <mxPoint x="360" y="140" />
+              <mxPoint x="200" y="280" />
+              <mxPoint x="200" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="280" height="260" as="geometry" />
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-2" value="阶段二：分层协同决策与仿真验证&lt;div&gt;大模型规划+小模型执行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-22" value="动态对抗验证" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="810" y="90" width="180" height="30" as="geometry" />
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EAB0HQsGv5KRgOdUg2jY-3" target="EAB0HQsGv5KRgOdUg2jY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="440" />
+              <mxPoint x="440" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-24" target="6OmyqCXXWsWW5m-6uv41-26">
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-8" value="策略评估/更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="EAB0HQsGv5KRgOdUg2jY-7">
+          <mxGeometry x="0.075" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="EAB0HQsGv5KRgOdUg2jY-3" target="EAB0HQsGv5KRgOdUg2jY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-24" value="红蓝对抗仿真" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="120" width="210" height="40" as="geometry" />
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-10" value="知识蒸馏" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="EAB0HQsGv5KRgOdUg2jY-9">
+          <mxGeometry x="-0.075" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-26" target="6OmyqCXXWsWW5m-6uv41-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-3" value="阶段三：动态对抗进化与元学习&lt;div&gt;在线学习闭环&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-26" value="策略有效性评估" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="200" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-27" value="学习参数更新" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="790" y="280" width="210" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6OmyqCXXWsWW5m-6uv41-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="6OmyqCXXWsWW5m-6uv41-18" target="6OmyqCXXWsWW5m-6uv41-24">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="EAB0HQsGv5KRgOdUg2jY-4" value="阶段四：边缘部署与在线推理&lt;div&gt;轻量化小模型独立运行&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
